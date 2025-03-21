@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md)
+
 # Credit Risk Prediction using Machine Learning
 
 [![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](https://github.com/yourusername/yourrepository)
