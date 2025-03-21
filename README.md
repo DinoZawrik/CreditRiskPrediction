@@ -79,11 +79,7 @@ Hyperparameter tuning was performed using GridSearchCV and RandomizedSearchCV to
 
 ## How to Run
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
-    ```
+1.  **Clone the repository**
 2.  **Install required libraries:** 
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn imblearn xgboost catboost lightgbm optuna
